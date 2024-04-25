@@ -77,7 +77,7 @@ And now... we wait. [Possibly for over four months, like I did.](/posts/google-w
 
 Even developers of Brave browser—founded by _the creator of JavaScript_—[faced similar delays in communication](https://github.com/brave/browser-laptop/issues/10449#issuecomment-323800130).
 
-And if we ever do get a license agreement sent to us, according to castLabs (a [Certified Widevine Implementation Partner](https://www.widevine.com/training)), we [also need Google to bless the authenticity of our browser](https://github.com/castlabs/electron-releases#verified-media-path-vmp) before we can ship to production.
+And if we ever do get a license agreement sent to us, according to castLabs (a [Certified Widevine Implementation Partner](https://www.widevine.com/training)), we [also need Google to bless the authenticity of our browser](https://web.archive.org/web/20200110070405/https://github.com/castlabs/electron-releases#verified-media-path-vmp) before we can ship to production.
 
 > Once a license agreement is in place you will be asked to provide CSRs for development and production VMP certificates. Google will sign and return the certificates enabling them to be used for VMP-signing your applications.
 
